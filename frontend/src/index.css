@@ -1,0 +1,48 @@
+html,body,#root{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: Georgia;
+  color: black;
+  background-image: linear-gradient(45deg, white);
+}
+
+.smallBox{
+  text-align: center;
+  border: 1PX dashed black;
+  padding: 10px 10px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px;
+  width: 300px;
+}
+
+.companySmallBox{
+  text-align: center;
+  border: 1PX dashed black;
+  padding: 10px 10px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px;
+  width: 800px;
+}
+
+.customerSmallBox{
+  text-align: center;
+  border: 1PX dashed black;
+  padding: 10px 10px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px;
+  width: 800px;
+}
+
+.couponSmallBox{
+  text-align: center;
+  border: 1PX dashed black;
+  padding: 10px 10px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px;
+  width: 250px;
+}
