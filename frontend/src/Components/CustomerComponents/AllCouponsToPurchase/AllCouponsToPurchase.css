@@ -1,0 +1,15 @@
+.AllCouponsToPurchase {
+	display: inline-block;
+}
+
+.noteBox{
+    text-align: center;
+    font-family: Georgia;
+    border: 1PX solid black;
+    padding: 10px 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+    width: 550px;
+    display: inline-block;
+}

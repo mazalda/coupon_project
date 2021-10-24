@@ -1,0 +1,27 @@
+.Layout {
+	min-height: 100%;
+    box-sizing: border-box;
+    display: grid;
+}
+
+.Layout>header{
+    height: 400px;
+    width: 100%;
+}
+
+.Layout>aside{
+    text-align: left;
+    height: 35px;
+    width: 100%;
+}
+
+.Layout>footer{
+    border-top: 1px solid whitesmoke;
+    height: 30px;
+    width: 100%;
+}
+
+.Layout>main{
+    position: relative;
+    min-height: 90%;
+}

@@ -1,0 +1,10 @@
+.Page404 {
+	height: 800px;
+    width: 100%;
+}
+
+.returnButton{
+    position: absolute;
+    bottom: 150px;
+    left: 45%;
+}
